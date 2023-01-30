@@ -182,7 +182,7 @@ caffeinateSetIcon(sleepStatus)
 -- Auto swith input method app
 local function Chinese()
     -- hs.keycodes.currentSourceID("com.apple.inputmethod.SCIM.ITABC")
-    hs.keycodes.currentSourceID("im.rime.inputmethod.Squirrel.Rime")
+    hs.keycodes.currentSourceID("im.rime.inputmethod.Squirrel.Hans")
 end
 
 local function English()
