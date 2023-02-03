@@ -192,6 +192,7 @@ end
 -- app to expected ime config
 local app2Ime = {
     {'/Applications/iTerm.app', 'English'},
+    {'/Applications/MacVim.app', 'English'},
     {'/Applications/Emacs.app', 'English'},
     {'/Applications/Telegram.app', 'Chinese'},
     {'/Applications/Xcode.app', 'English'},
